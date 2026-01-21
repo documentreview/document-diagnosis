@@ -74,3 +74,20 @@ This repository is intentionally minimal.
 It serves as a public description of the method rather than an implementation.
 
 Further material may be added as examples or analytical notes.
+---
+
+## How this is used
+
+This repository describes a method, not a software tool.
+
+Engagement typically proceeds as follows:
+
+1. The client provides a draft document or section requiring review.
+2. A diagnostic analysis is performed focusing on structure, logic, and internal coherence.
+3. Findings are returned as a structured written assessment, separate from the source text.
+4. Recommendations identify where meaning is distorted, assumptions are implicit, or arguments fail under pressure.
+
+No edits are made directly to the document unless explicitly requested.
+The purpose is diagnostic clarity, not stylistic polish.
+
+This method is most effective when decisions depend on the document doing its work correctly.
